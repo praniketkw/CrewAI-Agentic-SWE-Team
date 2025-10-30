@@ -1,0 +1,12 @@
+# CrewAI and core dependencies
+crewai>=0.203.1
+crewai-tools>=0.15.0
+langchain-anthropic>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Additional utilities
+pathlib
+typing-extensions>=4.5.0
+requests>=2.28.0  # For testing the generated app
