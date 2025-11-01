@@ -62,37 +62,37 @@ This project showcases 6 specialized AI agents, each with distinct personalities
 
 When you run `python run_crewai.py`, here's what happens:
 
-1. **Requirements Gathering** (5-10 minutes)
+1. **Requirements Gathering** (1-2 minutes)
    - Product Manager analyzes the project brief
    - Creates detailed user stories and technical specifications
    - Documents functional and non-functional requirements
 
-2. **Architecture Design** (10-15 minutes)
+2. **Architecture Design** (1-2 minutes)
    - System Architect reviews requirements
    - Designs database schema and API structure
    - Creates comprehensive architecture documentation
 
-3. **Backend Development** (15-20 minutes)
+3. **Backend Development** (2-3 minutes)
    - Backend Developer implements the entire API
    - Creates database models and authentication system
    - Builds all CRUD operations with proper error handling
 
-4. **Frontend Development** (15-20 minutes)
+4. **Frontend Development** (2-3 minutes)
    - Frontend Developer creates a beautiful, responsive interface
    - Implements user authentication and task management features
    - Integrates with the backend API seamlessly
 
-5. **Quality Assurance** (5-10 minutes)
+5. **Quality Assurance** (1 minute)
    - QA Engineer develops comprehensive test suites
    - Creates unit tests for all major functionality
    - Ensures code quality and reliability
 
-6. **Deployment Setup** (5-10 minutes)
+6. **Deployment Setup** (1 minute)
    - DevOps Engineer creates Docker configurations
    - Sets up deployment documentation and scripts
    - Prepares the application for production deployment
 
-**Total Time: 1-2 hours**
+**Total Time: 7-8 minutes**
 
 ## What Gets Built
 
@@ -152,7 +152,7 @@ CrewAI excels at generating the **vast majority** of a working application:
 
 ### **Speed Comparison**
 - **Traditional Development**: Days with a team
-- **CrewAI Generation**: Minutes with AI agents
+- **CrewAI Generation**: 7 minutes with AI agents
 - **Cost Reduction**: $50K+ → $50 in API costs
 
 ## The Human Touch: That Critical 5%
@@ -206,12 +206,12 @@ With better resources, CrewAI could generate:
 ### **Scaling Scenarios**
 
 #### **Scenario 1: Startup MVP Development**
-- **Timeline**: 2-3 months → **30 minutes**
+- **Timeline**: 2-3 months → **7-15 minutes**
 - **Team Size**: 4-6 developers → **1 person + AI agents**
 - **Cost**: $50,000-100,000 → **$50-100 in API costs**
 
 #### **Scenario 2: Enterprise Application**
-- **Timeline**: 6-12 months → **2-3 hours**
+- **Timeline**: 6-12 months → **30-60 minutes**
 - **Team Size**: 10-15 developers → **2-3 people + AI agents**
 - **Cost**: $500,000-1,000,000 → **$500-1,000 in API costs**
 
